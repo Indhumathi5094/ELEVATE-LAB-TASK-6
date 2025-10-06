@@ -47,5 +47,3 @@ This task involves data preprocessing, training the KNN model, evaluating perfor
 - 📊 Choosing the right K value is crucial for balancing bias and variance.  
 - 🌀 Visualization helps to interpret how KNN classifies points.
 
-# 2️⃣ Run the Python script
-python task6_knn_classification.py
